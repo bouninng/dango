@@ -1,7 +1,7 @@
 # Dango
 
 This is your story.
-test,test,test,test.
+test,test,test.
 ## Run in development mode
 
 ```
